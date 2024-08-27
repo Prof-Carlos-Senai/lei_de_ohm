@@ -1,0 +1,42 @@
+body{
+    background-color: coral;
+    color: white;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    font-size: 28px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+a:hover{
+    background-color: rgb(250, 169, 139);
+}
+h1{
+    font-size: 36px;
+}
+h2{
+    font-size: 32px;
+}
+p{
+    font-size: 30px;
+}
+div{
+    text-align: center;
+}
+div img{
+    width: 600px;
+    height: 400px;
+    border: solid black 6px;
+    border-radius: 16px;
+}
+small{
+    font-size: 20px;
+}
+div a{
+    color: blue;
+    font-size: 20px;
+    text-decoration: none;
+}
